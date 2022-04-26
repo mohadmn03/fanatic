@@ -1,5 +1,5 @@
 # fanatic
-Convert Adobe XX design to html &amp; css
+Convert Adobe XD design to html &amp; css
 
 
 
